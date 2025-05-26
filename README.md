@@ -32,4 +32,4 @@ Este projeto, **Store Napple**, é um site de exemplo para uma loja de aparelhos
 *   `images/`: Diretório contendo as imagens dos produtos utilizadas no carrossel.
 
 ## Link do site
-
+https://yurivianadev.github.io/loja-dev/
